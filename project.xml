@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <meta title="OneTap" package="com.example.onetap" version="1.0.0" company="Example" />
+
+  <app main="Main" path="bin" file="OneTap" />
+  <source path="src" />
+  <assets path="assets" rename="assets" />
+
+  <haxelib name="openfl" />
+
+  <window width="720" height="1280" fps="60" background="#0d0f1a" orientation="portrait" />
+
+  <android>
+    <manifest>
+      <uses-permission android:name="android.permission.VIBRATE" />
+      <application android:label="OneTap" />
+    </manifest>
+  </android>
+</project>
