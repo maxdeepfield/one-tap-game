@@ -2,6 +2,8 @@
 
 A fast-paced arcade game built with Haxe and OpenFL where you tap to switch lanes and avoid obstacles.
 
+<img width="698" height="1239" alt="image" src="https://github.com/user-attachments/assets/bed6b4c7-3ed0-4a18-9a5d-8a5572cac8d9" />
+
 ## Gameplay
 
 - Tap anywhere to move to the next lane
